@@ -1,0 +1,34 @@
+.custom-bg{
+    background-image: url(images/angelina-yan-2o_G7UQliOI-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+
+}
+.text-color{
+    color: white;
+    font-size: 100px;
+    font-family: sans-serif;
+    
+}
+.base-line{
+    color: white;
+}
+.booking-bg{
+    background-color: #feefc6;
+}
+.images{
+    background-size: cover;
+    background-position: center center;
+}
+.making-bg{
+    
+    /* background-color:#fee7aa; */
+}
+.next-bg{
+    /* background-color: #fddf8e; */
+    background-color: #feefc6;
+}
+.catalogue-bg{
+    /* background-color: #fdd771; */
+}
+/* style="background-color: #fccf55; */
